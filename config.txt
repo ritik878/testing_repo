@@ -1,1 +1,1 @@
-{'gitType': 'github', 'gitUrl': 'https://github.com/ritik878/testing_repo', 'gitUserName': 'ritik878', 'gitToken': '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'}
+{'gitType': 'github', 'gitUrl': 'https://github.com/ritik878/testing_repo', 'gitUserName': 'ritik878', 'gitToken': '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'}
