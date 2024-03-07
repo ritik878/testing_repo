@@ -2,7 +2,7 @@
 from flask import Flask
 from flask_cors import CORS  # Import the CORS extension
 import argparse
-import os
+import args
 from flask_sqlalchemy import SQLAlchemy
 app = Flask(__name__)
 CORS(app)
