@@ -5,5 +5,5 @@ print("G")
 print("That is not good")
 print("Merge conflict")
 print("Changes committed")
-print('New changes phirs mergcdddfe lo aa chle gye hai')
+print('New changes phirs mergdddssdsddssddse lo aa chle gye hai')
 
