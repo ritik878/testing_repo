@@ -1,5 +1,5 @@
 print('Hello World')
 print('bhot bdhiya)
-print("Good")
+print("Good hai ji")
 print("That is not good")
 
