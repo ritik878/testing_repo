@@ -6,5 +6,5 @@ print("That is not good")
 print("Merge conflict")
 print("Changes committed")
 print('New merge conflict')
-print('New changes phirse mergdddbsdh')
+print('New changes phirse last')
 
