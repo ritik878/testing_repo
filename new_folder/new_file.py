@@ -5,6 +5,6 @@ print('hello from codecraftersdsbranbsdbasfbnsaf')
 print('hello from codecrafterrdsssdsdjsdasfdsavfdbsafbsbfvbsfdsbdfsbnf bnds bcn j')
 
 
-print("aajjajajajjajjjjdjadjajddbdb")
+print("ritik")
 
 
