@@ -1,10 +1,3 @@
-print('Hello World')
-print('bhot bdhiya)
-print("Good hai ji")
-print("G")
-print("That is not good")
-print("Merge conflict")
-print("Changes committed")
-print('New merge conflict')
-print('New changesss')
 
+print('hello from codecraftersdsbr')
+print('hello from codecrafterrdsssdsdjsdj')
