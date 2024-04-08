@@ -1,4 +1,3 @@
-
-print('ritikxssbnsxbxns')
-print('hello from codecrafterrdsssdsddsbdsndsnsdbnjsdj')
-print('hfhf')
+print('Hello World')
+print("HIi")
+print("Hiii")
