@@ -13,6 +13,7 @@ db = SQLAlchemy(app)
 @app.route('/')
 def hello_world():
     return 'Hello, World!hgh'
+my changes
 @app.route("/name/<name>",methods=['GET'])
 def saymyname(name):
     return f"Hii {name}"
