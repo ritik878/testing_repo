@@ -1,0 +1,6 @@
+projectKey=code_crafter_testing_git_api
+serverUrl=http://sonarqube.magicsw.com
+serverVersion=8.9.10.61524
+dashboardUrl=http://sonarqube.magicsw.com/dashboard?id=code_crafter_testing_git_api
+ceTaskId=AZARWl2Y2v8M8vUSw6hF
+ceTaskUrl=http://sonarqube.magicsw.com/api/ce/task?id=AZARWl2Y2v8M8vUSw6hF
